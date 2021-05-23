@@ -3,9 +3,9 @@
 
 ### I am a Data analyst and Web Developer Student.
 
-- 🔭 I’m currently working on data science projects & web development
-- 🌱 I’m currently learning data analytics and webdevelopment projects
-- 👯 I’m looking to collaborate on projects on data analytics , Machine Leraning and Web development
+- 🔭I’m currently learning data analytics and web development.
+- 🌱 I’m currently working on data science projects & web development projects.
+- 👯 I’m looking to collaborate on projects related to data analytics,Machine Learning and Web development.
 - 📫 How to reach me: gmail - techtrends13@gmail.com
 
 ## Connect with me:
