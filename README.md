@@ -3,10 +3,10 @@
 
 ### I am a Data analyst and Web Developer Student.
 
-- 🔭I’m currently learning data analytics and web development.
-- 🌱 I’m currently working on data science projects & web development projects.
-- 👯 I’m looking to collaborate on projects related to data analytics,Machine Learning and Web development.
-- 👨🏻‍💻 Founder of Techtrends (@techtrend13 my instagram page)
+- 🔭I’m currently learning Csharp,Dotnet,MVC framework,Sql server 2019.
+- 🌱 I’m currently working on c-sharp projects.
+- 👯 I’m looking to collaborate on projects related to dotnet and Web development.
+- 👨🏻‍💻 Founder of Techtrends (@techytrends my instagram page)
 - 📫 How to reach me: gmail - techtrends13@gmail.com
 
 ## Connect with me:
