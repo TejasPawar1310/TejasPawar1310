@@ -1,10 +1,10 @@
 ### Hey Tejas here 👋
 
 
-### I am a Data analyst and Web Developer Student.
+### I am a Fullstack DotNet Developer
 
-- 🔭I’m currently learning Csharp,Dotnet,MVC framework,Sql server 2019.
-- 🌱 I’m currently working on c-sharp projects.
+- 🔭My skills are C#,ASP.Net WEBAPI,ASP.DotNet MVC,HTML,CSS,Javascript,Jquery,Sql server.
+- 🌱 I’m currently working on DotNet projects.
 
 
 ## Connect with me:
