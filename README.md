@@ -15,7 +15,7 @@
 <br />
 
 ## Languages
-[<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[![C#](https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
 
 <br />
